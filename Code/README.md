@@ -62,7 +62,7 @@ The project includes the following experiments and preprocessing approaches:
 
 ![image](https://github.com/MertBasan/churnDetection/assets/101882782/a3e20e44-598c-415b-857c-44831a7eee99)
 
-![image](https://github.com/MertBasan/churnDetection/assets/101882782/1c973fc3-2c38-4846-b045-a8e8a4db1067)
+![image](https://github.com/MertBasan/churnDetection/assets/101882782/8857dfbf-b0aa-4822-84cf-1dc9d6c1f4e8)
 
 
 ## Preprocessing Approaches
