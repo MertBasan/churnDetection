@@ -60,11 +60,21 @@ The project includes the following experiments and preprocessing approaches:
 - Logistic Regression performs well in specific scenarios.
 - Naive Bayes demonstrates the lowest performance across all datasets.
 
+![image](https://github.com/MertBasan/churnDetection/assets/101882782/a3e20e44-598c-415b-857c-44831a7eee99)
+
+![image](https://github.com/MertBasan/churnDetection/assets/101882782/1c973fc3-2c38-4846-b045-a8e8a4db1067)
+
+
 ## Preprocessing Approaches
 
 - Resampling (SMOTE) significantly improves model performance, particularly for imbalanced datasets.
 - Cross-validation provides a robust evaluation method, ensuring model reliability across different data splits.
 - Standard scaling contributes to maintaining competitive model performance.
 - Original data with label encoding and one-hot encoding is effective for certain models.
+
+![image](https://github.com/MertBasan/churnDetection/assets/101882782/835e6be6-42ea-4c16-8acc-50001a843c05)
+
+![image](https://github.com/MertBasan/churnDetection/assets/101882782/682392ab-18f2-42e7-aa0a-fd7d7a7c29cd)
+
 
 Feel free to explore the code and results for a deeper understanding of the churn detection project.
