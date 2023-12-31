@@ -23,4 +23,12 @@ This project addresses the challenge of implementing an accurate and reliable ch
 - Data: Contains the csv files used in this project.
 - Presentation: Visualizations and insights presented using Power BI.
 
+## Data
+
+The project utilizes two main datasets, located in the `Data` folder:
+
+- **churn_prediction.csv:** This dataset includes relevant features used for training machine learning models to predict customer churn.
+
+- **churn_vis.csv:** This dataset is designed for visualizations and exploratory data analysis, providing insights into the characteristics of churned and non-churned customers.
+
 Feel free to explore the code and results to gain a comprehensive understanding of the churn detection project.
